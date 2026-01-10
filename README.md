@@ -1,2 +1,2 @@
-# prog-str-2E--nombre-apellido-
+# prog-str-2E--AlexisTomas-RiveraRodriguez-
 Trabajos de Programación 
