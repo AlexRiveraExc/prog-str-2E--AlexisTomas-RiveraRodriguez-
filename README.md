@@ -1,4 +1,4 @@
-# prog-str-2E--AlexisTomas-RiveraRodriguez-
+# prog-str-2E--AlexisTomas-RiveraRodriguez-Main
 
 Este repositorio es para entregar trabajos de la materia de programacion estructurada 
 
