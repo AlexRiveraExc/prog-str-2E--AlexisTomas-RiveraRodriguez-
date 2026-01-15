@@ -8,7 +8,7 @@
  * Grupo: E
  * Fecha: 13/01/2026
  */
-
+package MergeWithOutConflict;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Semana 2");
