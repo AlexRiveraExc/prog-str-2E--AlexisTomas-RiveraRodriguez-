@@ -8,8 +8,10 @@
  * Grupo: E
  * Fecha: 14/01/2026
  */
+package mergewithconflict;
 
-public class Main {
+
+     public class Main {
 
     public static void main(String[] args) {
 
