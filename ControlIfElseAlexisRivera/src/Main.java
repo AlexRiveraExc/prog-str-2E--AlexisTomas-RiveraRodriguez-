@@ -15,18 +15,22 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("ingresa tu edad: ");
+        System.out.print("Ingresa tu edad: ");
         int edad = sc.nextInt();
 
         if (edad < 0 || edad > 120) {
-            System.out.println("edad invalida");
+            System.out.println("Edad invalida");
             return;
         }
-
-        System.out.print("eres estudiante? (si/no): ");
+        System.out.print("Eres estudiante? (si/no): ");
         String estudiante = sc.next().toLowerCase();
 
         int tarifa = 0;
+
+        if (edad < 0 || edad > 120) {
+            System.out.println("Edad invalida");
+            return;
+        }
 
         if (edad < 12) {
             tarifa = 50;
@@ -37,15 +41,15 @@ public class Main {
                 tarifa = 80;
             }
         } else {
-            if (estudiante.equals("si") || estudiante.equals("estudiant")) {
+            if (estudiante.equals("si") || estudiante.equals("estudiante")) {
                 tarifa = 90;
             } else {
                 tarifa = 120;
             }
         }
 
-        System.out.println("edad ingresada: " + edad);
-        System.out.println("es estudiante: " + (estudiante.equals("si") || estudiante.equals("estudiante") ? "Si" : "No"));
-        System.out.println("tarifa final: " + tarifa);
+        System.out.println("Edad ingresada: " + edad);
+        System.out.println("Es estudiante: " + (estudiante.equals("si") || estudiante.equals("estudiante") ? "Si" : "No"));
+        System.out.println("Tarifa final: " + tarifa);
     }
 }

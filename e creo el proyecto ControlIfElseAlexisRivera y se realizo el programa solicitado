@@ -1,0 +1,107 @@
+[33mcommit 44628ad94d239567cc1cbfd5e8fe0ba451197166[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Thu Jan 22 09:40:33 2026 -0600
+
+    se creo el proyecto ControlIfElseAlexisRivera y se realizo el programa solicitado
+
+[33mcommit 5df328cc04badf7e1f79656e39fc384174f99ff7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Mon Jan 19 20:15:56 2026 -0600
+
+    fix: resolver conflicto y unificar logica
+
+[33mcommit 2f53db60c98ddbcdc5247fad4d38b3467fee1fd0[m[33m ([m[1;32mfeature/iva[m[33m)[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Mon Jan 19 20:09:48 2026 -0600
+
+    feat: agregar calculo de iva
+
+[33mcommit 85eb49c1c75a0e0019c112ef459ee3c13b734f7b[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Mon Jan 19 20:07:32 2026 -0600
+
+    chore: base de calculadora
+
+[33mcommit dfb19c23081fc301c8ed93b73244c120de9036cc[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Mon Jan 19 19:34:40 2026 -0600
+
+    comentado de programa para buenas practicas
+
+[33mcommit 64f1567164ea541cd87a5f648bd21791843b5b83[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Mon Jan 19 19:07:36 2026 -0600
+
+    refactor practica para el examen no vale como calificacion
+
+[33mcommit 1ec240257684a45a7326e6a6121d46a9c7345899[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Fri Jan 16 19:22:56 2026 -0600
+
+    feat: actividad buenas practicas en Java
+
+[33mcommit 1f530f8ffed3971d5168370bf37f60d8bec22bef[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Thu Jan 15 18:30:58 2026 -0600
+
+    feat: menu java con javadoc y operaciones basicas
+
+[33mcommit 9d088f6766f235c67b307692006b5c52d944c094[m[33m ([m[1;31morigin/feature/operaciones[m[33m)[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Wed Jan 14 20:05:10 2026 -0600
+
+    feat: organizar Main.java y eliminar .iml innecesario
+
+[33mcommit adc5ee5e6b1cdd62c81ec840c882b68052e1723f[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Wed Jan 14 19:47:42 2026 -0600
+
+    feat: agregar operaciones
+
+[33mcommit 5d831c8eb4b849d5695b0a3225c01e93f8b2ab42[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Tue Jan 13 09:46:23 2026 -0600
+
+    feat: agregar operaciones
+
+[33mcommit 0bd63ebcae3a3e7c39199606115eb1efc4b276cd[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Tue Jan 13 09:37:48 2026 -0600
+
+    chore: base actividad git merge withoutconflict
+
+[33mcommit e64a77eb0f755b909607cf7f14b8fa9e202ae155[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Tue Jan 13 07:37:08 2026 -0600
+
+    Edicion de titulo en readme
+
+[33mcommit a90b3b1e9770ef44cae16c4b35ed7f16becba999[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Tue Jan 13 07:27:31 2026 -0600
+
+    Edicion de el archivo README para agregar una descripccion
+
+[33mcommit b4ea1371e05318048dc839aa33448523db33722a[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Fri Jan 9 22:03:16 2026 -0600
+
+    Mover Main.java a la carpeta src
+
+[33mcommit 4beab4bd617314c912e2336c48bcc4db2953da87[m
+Author: AlexRiveraExc <20243ds065@utez.edu.mx>
+Date:   Fri Jan 9 21:23:52 2026 -0600
+
+    Proyecto 01:hola mundo
+
+[33mcommit aa404b13cbd5ee3493652eab592b3a3c95b96e17[m
+Author: Alex Rivera <20243ds065@utez.edu.mx>
+Date:   Fri Jan 9 21:12:36 2026 -0600
+
+    Update README.md
+
+[33mcommit e22205df9b7d8c7399ccd83f964bcc98c007334b[m
+Author: Alex Rivera <20243ds065@utez.edu.mx>
+Date:   Fri Jan 9 21:10:53 2026 -0600
+
+    Initial commit
