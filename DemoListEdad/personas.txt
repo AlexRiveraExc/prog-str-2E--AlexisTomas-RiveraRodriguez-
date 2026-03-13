@@ -1,0 +1,4 @@
+Alexis Rivera,sdvgeabrb,18
+Diego Jarillo,dieg@gmail.com,9999
+Kevin Morelos,keiton@utez.edu.mx,21
+Eliel Rodriguez,eliel@utez.edu.mx,27

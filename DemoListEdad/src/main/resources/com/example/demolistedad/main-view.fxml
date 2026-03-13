@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+      spacing="10"
+      fx:controller="com.example.demolistedad.controllers.controllers"
+      alignment="CENTER">
+
+    <Label text="Registro de Personas"/>
+
+    <TextField fx:id="txtNombre" promptText="Nombre"/>
+
+    <TextField fx:id="txtCorreo" promptText="Correo"/>
+
+    <TextField fx:id="txtEdad" promptText="Edad"/>
+
+    <Button text="Guardar" onAction="#guardarPersona"/>
+
+    <Label text="Lista de Personas"/>
+
+    <ListView fx:id="listView" prefHeight="150"/>
+
+    <Label fx:id="lblDatos" text="Seleccione una Persona"/>
+
+</VBox>
