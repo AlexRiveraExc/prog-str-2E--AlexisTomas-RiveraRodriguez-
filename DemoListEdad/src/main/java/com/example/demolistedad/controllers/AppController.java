@@ -20,8 +20,8 @@ public class AppController {
     public void initialize() {
         cargar();
 
-        listView.getSelectionModel().selectedItemProperty().addListener((obs,o,p)->{
-            if(p!=null){
+        listView.getSelectionModel().selectedItemProperty().addListener((obs, o, p) -> {
+            if (p != null) {
                 detalleLabel.setText(
                         "Nombre: " + p.getNombre() +
                                 "\nCorreo: " + p.getCorreo() +
@@ -32,39 +32,24 @@ public class AppController {
     }
 
     @FXML
-    public void guardarPersona(){
-
+    public void guardarPersona() {
         String nombre = nombreField.getText();
         String correo = correoField.getText();
         int edad;
 
-        // validar nombre
-        if(nombre.isEmpty()){
-            alerta("El nombre es obligatorio");
-            return;
-        }
-
-        // validar correo
-        if(!correoValido(correo)){
-            alerta("Correo invalido");
-            return;
-        }
-
-        // validar edad numerica
-        try{
+        try {
             edad = Integer.parseInt(edadField.getText());
-        }catch(Exception e){
+        } catch (Exception e) {
             alerta("Edad invalida");
             return;
         }
 
-        // validar edad mayor de 18
-        if(edad < 18){
+        if (edad < 18) {
             alerta("Solo mayores de 18");
             return;
         }
 
-        Persona p = new Persona(nombre,correo,edad);
+        Persona p = new Persona(nombre, correo, edad);
         repo.guardar(p);
         cargar();
 
@@ -73,17 +58,24 @@ public class AppController {
         edadField.clear();
     }
 
-    // VALIDACION DE CORREO
-    private boolean correoValido(String correo){
-        String regex = "^[A-Za-z0-9+_.-]+@(.+)$";
-        return correo.matches(regex);
+    @FXML
+    public void eliminarPersona() {
+        Persona seleccionada = listView.getSelectionModel().getSelectedItem();
+
+        if (seleccionada == null) {
+            alerta("Selecciona una persona");
+            return;
+        }
+
+        repo.eliminar(seleccionada);
+        cargar();
     }
 
-    private void cargar(){
+    private void cargar() {
         listView.setItems(FXCollections.observableArrayList(repo.obtener()));
     }
 
-    private void alerta(String m){
+    private void alerta(String m) {
         Alert a = new Alert(Alert.AlertType.ERROR);
         a.setContentText(m);
         a.showAndWait();
