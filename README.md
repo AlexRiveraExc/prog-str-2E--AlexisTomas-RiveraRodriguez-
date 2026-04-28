@@ -1,16 +1,10 @@
-# Examen Práctico U2 - PRACTICA CON TODO
 
-## Objetivo
-Completar los TODO del código.
+Este repositorio es para entregar trabajos de la materia de programacion estructurada 
 
-## Instrucciones
-- Completa validaciones
-- Completa conteos
-- Completa clasificaciones
-- No usar arreglos
-
-## Compilar
-javac -d out src/*.java
-
-## Ejecutar
-java -cp out Main
+Nombre del alumno: Alexis Tomas Rivera Rodriguez
+Carrera: DSM
+Materia: Programación Estructurada
+Universidad: Universidad Emiliano Zapata
+Profesor: Eliel
+Cuatrimestre: 2
+Grupo: E 

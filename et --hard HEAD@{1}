@@ -1,0 +1,63 @@
+[33me7956e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33me7956e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: commit: se realizo el programa paea cotizar envios con clases igual se crearon las clases correspondientes
+[33mbcf915b[m HEAD@{2}: commit: cotizador de en vio con clases
+[33m5a3499f[m HEAD@{3}: commit: Practica de adivinar un umero y llevar el conteo de intentos fallidos del usuario
+[33m23ef77b[m HEAD@{4}: commit: programa de conversiones
+[33m1ce59a8[m HEAD@{5}: commit: se realizo el proggrama de la calcladora con forme a la indicaciones
+[33mb3168cf[m HEAD@{6}: commit: Actividad Switch Calculadora
+[33m89451c8[m HEAD@{7}: reset: moving to HEAD
+[33m89451c8[m HEAD@{8}: reset: moving to HEAD
+[33m89451c8[m HEAD@{9}: reset: moving to HEAD
+[33m89451c8[m HEAD@{10}: commit: Se creo el proyecto ControlIfElseAlexisRivera y se realizo el programa solicitado
+[33m44628ad[m HEAD@{11}: commit: se creo el proyecto ControlIfElseAlexisRivera y se realizo el programa solicitado
+[33m5df328c[m HEAD@{12}: commit: fix: resolver conflicto y unificar logica
+[33m2f53db6[m[33m ([m[1;32mfeature/iva[m[33m)[m HEAD@{13}: reset: moving to HEAD
+[33m2f53db6[m[33m ([m[1;32mfeature/iva[m[33m)[m HEAD@{14}: merge feature/iva: Fast-forward
+[33m85eb49c[m HEAD@{15}: checkout: moving from feature/descuento to main
+[33mbfc4901[m[33m ([m[1;32mfeature/descuento[m[33m)[m HEAD@{16}: commit: feat: agregar descuento por umbral
+[33m85eb49c[m HEAD@{17}: checkout: moving from main to feature/descuento
+[33m85eb49c[m HEAD@{18}: checkout: moving from feature/iva to main
+[33m2f53db6[m[33m ([m[1;32mfeature/iva[m[33m)[m HEAD@{19}: commit: feat: agregar calculo de iva
+[33m85eb49c[m HEAD@{20}: checkout: moving from main to feature/iva
+[33m85eb49c[m HEAD@{21}: commit: chore: base de calculadora
+[33mdfb19c2[m HEAD@{22}: commit: comentado de programa para buenas practicas
+[33m64f1567[m HEAD@{23}: reset: moving to HEAD~1
+[33mde44255[m HEAD@{24}: commit: docs: agrega comentarios y explica el funcionamiento del programa
+[33m64f1567[m HEAD@{25}: commit: refactor practica para el examen no vale como calificacion
+[33m1ec2402[m HEAD@{26}: commit: feat: actividad buenas practicas en Java
+[33m1f530f8[m HEAD@{27}: Branch: renamed refs/heads/feature/operaciones to refs/heads/main
+[33m1f530f8[m HEAD@{29}: commit: feat: menu java con javadoc y operaciones basicas
+[33m9d088f6[m[33m ([m[1;31morigin/feature/operaciones[m[33m)[m HEAD@{30}: commit: feat: organizar Main.java y eliminar .iml innecesario
+[33madc5ee5[m HEAD@{31}: commit: feat: agregar operaciones
+[33m5d831c8[m HEAD@{32}: checkout: moving from feature/operaciones to feature/operaciones
+[33m5d831c8[m HEAD@{33}: checkout: moving from Main to feature/operaciones
+[33m8bcc7fc[m HEAD@{34}: commit: chore: base actividad git merge withoutconflict
+[33m32791b3[m HEAD@{35}: commit: chore: base actividad git merge withoutconflict
+[33m3944ded[m HEAD@{36}: checkout: moving from Main to Main
+[33m3944ded[m HEAD@{37}: commit: fix: resolver conflicto
+[33me4232ae[m HEAD@{38}: commit (merge): fix: resolver conflicto
+[33mdc544b3[m HEAD@{39}: commit: mensaje main
+[33m4332cab[m HEAD@{40}: checkout: moving from feature/mensaje1 to Main
+[33mab2dd6e[m[33m ([m[1;32mfeature/mensaje1[m[33m)[m HEAD@{41}: commit: feat: mensaje feature
+[33m4332cab[m HEAD@{42}: checkout: moving from Main to feature/mensaje1
+[33m4332cab[m HEAD@{43}: commit: base conflicto
+[33m8065022[m HEAD@{44}: commit: chore: eliminar proyecto MergeWithOutConflict
+[33m5d831c8[m HEAD@{45}: reset: moving to HEAD
+[33m5d831c8[m HEAD@{46}: reset: moving to HEAD
+[33m5d831c8[m HEAD@{47}: reset: moving to HEAD
+[33m5d831c8[m HEAD@{48}: reset: moving to HEAD
+[33m5d831c8[m HEAD@{49}: merge feature/operaciones: Fast-forward
+[33m0bd63eb[m HEAD@{50}: checkout: moving from feature/operaciones to Main
+[33m5d831c8[m HEAD@{51}: commit: feat: agregar operaciones
+[33m0bd63eb[m HEAD@{52}: checkout: moving from Main to feature/operaciones
+[33m0bd63eb[m HEAD@{53}: commit: chore: base actividad git merge withoutconflict
+[33me64a77e[m HEAD@{54}: checkout: moving from dev to Main
+[33ma90b3b1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{55}: checkout: moving from Main to dev
+[33me64a77e[m HEAD@{56}: commit: Edicion de titulo en readme
+[33ma90b3b1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{57}: merge dev: Fast-forward
+[33mb4ea137[m HEAD@{58}: checkout: moving from dev to Main
+[33ma90b3b1[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{59}: commit: Edicion de el archivo README para agregar una descripccion
+[33mb4ea137[m HEAD@{60}: checkout: moving from main to dev
+[33mb4ea137[m HEAD@{61}: commit: Mover Main.java a la carpeta src
+[33m4beab4b[m HEAD@{62}: commit: Proyecto 01:hola mundo
+[33maa404b1[m HEAD@{63}: clone: from https://github.com/AlexRiveraExc/prog-str-2E--AlexisTomas-RiveraRodriguez-.git
